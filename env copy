@@ -1,0 +1,4 @@
+SUPABASE_URL="https://xktcnsdldmlkiigiepjs.supabase.co"
+SUPABASE_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhrdGNuc2RsZG1sa2lpZ2llcGpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgyMDEzOTUsImV4cCI6MjA5Mzc3NzM5NX0.bSSWXvmNZp3zXciVzeyzcoX2BElK2Gft76y4NaONOhw"
+ADMIN_USER="admin"
+ADMIN_PASS="admin123"
